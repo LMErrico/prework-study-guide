@@ -1,2 +1,2 @@
 # prework-study-guide
-A study guide for coding bootcamp
+Boot Camp Prework Study Guide for Students
